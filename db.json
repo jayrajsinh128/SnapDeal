@@ -1,0 +1,221 @@
+{
+  "user": [
+    {
+      "id": "8259",
+      "username": "jayu",
+      "email": "jayrajsinhrathod128@gmail.com",
+      "pass": "1234"
+    }
+  ],
+  "product": [
+    {
+      "name": "Ambrane PP-20 20000 -mAh Li-Polymer Power Bank Black",
+      "mrp": "3799",
+      "price": "1299",
+      "discount": "66",
+      "img": "https://n1.sdlcdn.com/imgs/j/e/c/Ambrane-PP-20-20000-mAh-SDL497847923-1-23d77.jpg",
+      "link": "snapdeal4.html",
+      "id": "9dea"
+    },
+    {
+      "name": "Ambrane Stylo 20K 20000 -mAh Li-Polymer Power Bank Green",
+      "mrp": "2499",
+      "price": "1449",
+      "discount": "42",
+      "img": "https://n1.sdlcdn.com/imgs/j/u/l/Ambrane-20000-mAh-Li-Polymer-SDL975841344-1-cc3d4.jpg",
+      "link": "product.html",
+      "id": "123c"
+    },
+    {
+      "name": "Ambrane Power Lit 10000 -mAh Li-Polymer Power Bank Green",
+      "mrp": "1499",
+      "price": "675",
+      "discount": "55",
+      "img": "https://n4.sdlcdn.com/imgs/j/t/l/Ambrane-Power-Lit-10000-mAh-SDL242000307-1-bb747.jpg",
+      "link": "product.html",
+      "id": "e817"
+    },
+    {
+      "name": "Ambrane PP-111 10000 -mAh Li-Polymer Power Bank Blue",
+      "mrp": "1499",
+      "price": "775",
+      "discount": "48",
+      "img": "https://n2.sdlcdn.com/imgs/j/7/u/Ambrane-PP-111-10000-mAh-SDL697853207-1-b8fd0.jpg",
+      "link": "product.html",
+      "id": "9097"
+    },
+    {
+      "name": "Ambrane Blaze PP-128 10000 -mAh Li-Polymer Power Bank Green (20 W, Power Delivery 2.0, Quick Charge 3.0)",
+      "mrp": "1599",
+      "price": "675",
+      "discount": "58",
+      "img": "https://n2.sdlcdn.com/imgs/j/u/r/01-601a9.jpg",
+      "link": "product.html",
+      "id": "a8f3"
+    },
+    {
+      "name": "Ambrane Stylo 10K 10000 -mAh Li-Polymer Power Bank Blue",
+      "mrp": "1599",
+      "price": "775",
+      "discount": "52",
+      "img": "https://n2.sdlcdn.com/imgs/j/y/k/Ambrane-10000-mAh-Li-Polymer-SDL233266248-1-68674.jpg",
+      "link": "product.html",
+      "id": "ad03"
+    },
+    {
+      "name": "Ambrane PP-20 Pro 20000 -mAh Li-Polymer Power Bank Black",
+      "mrp": "1999",
+      "price": "1299",
+      "discount": "35",
+      "img": "https://n1.sdlcdn.com/imgs/j/u/k/Ambrane-20000-mAh-Li-Polymer-SDL024857461-1-bf5c0.jpg",
+      "link": "product.html",
+      "id": "cd35"
+    },
+    {
+      "name": "Ambrane PP-1000 10000 -mAh Li-Polymer Power Bank Gold",
+      "mrp": "2499",
+      "price": "499",
+      "discount": "80",
+      "img": "https://n2.sdlcdn.com/imgs/j/x/x/Ambrane-PP-1000-10000-mAh-SDL132727650-1-b76c6.jpg",
+      "link": "product.html",
+      "id": "6da4"
+    },
+    {
+      "name": "Ambrane PP-30 Pro 27000 -mAh Li-Polymer Power Bank Black",
+      "mrp": "3999",
+      "price": "1549",
+      "discount": "61",
+      "img": "https://n3.sdlcdn.com/imgs/i/1/2/Ambrane-PP-30-Pro-27000-SDL153257793-1-e437e.jpeg",
+      "link": "product.html",
+      "id": "ffc1"
+    },
+    {
+      "name": "Ambrane 20000 -mAh Li-Polymer Power Bank White",
+      "mrp": "2499",
+      "price": "1299",
+      "discount": "48",
+      "img": "https://n4.sdlcdn.com/imgs/j/y/k/Ambrane-20000-mAh-Li-Polymer-SDL391745921-1-e8666.jpg",
+      "link": "product.html",
+      "id": "0978"
+    },
+    {
+      "name": "Ambrane 20000 -mAh Li-Polymer Power Bank Green",
+      "mrp": "1999",
+      "price": "1299",
+      "discount": "35",
+      "img": "https://n1.sdlcdn.com/imgs/k/a/1/Ambrane-20000-mAh-Li-Polymer-SDL494473743-1-c0bd0.jpg",
+      "link": "product.html",
+      "id": "e62a"
+    }
+  ],
+  "cart": [
+    {
+      "id": "ad03",
+      "name": "Ambrane Stylo 10K 10000 -mAh Li-Polymer Power Bank Blue",
+      "mrp": "1599",
+      "price": "775",
+      "discount": "52",
+      "img": "https://n2.sdlcdn.com/imgs/j/y/k/Ambrane-10000-mAh-Li-Polymer-SDL233266248-1-68674.jpg",
+      "link": "product.html"
+    },
+    {
+      "id": "0978",
+      "name": "Ambrane 20000 -mAh Li-Polymer Power Bank White",
+      "mrp": "2499",
+      "price": "1299",
+      "discount": "48",
+      "img": "https://n4.sdlcdn.com/imgs/j/y/k/Ambrane-20000-mAh-Li-Polymer-SDL391745921-1-e8666.jpg",
+      "link": "product.html"
+    },
+    {
+      "id": "ffc1",
+      "name": "Ambrane PP-30 Pro 27000 -mAh Li-Polymer Power Bank Black",
+      "mrp": "3999",
+      "price": "1549",
+      "discount": "61",
+      "img": "https://n3.sdlcdn.com/imgs/i/1/2/Ambrane-PP-30-Pro-27000-SDL153257793-1-e437e.jpeg",
+      "link": "product.html"
+    },
+    {
+      "id": "e817",
+      "name": "Ambrane Power Lit 10000 -mAh Li-Polymer Power Bank Green",
+      "mrp": "1499",
+      "price": "675",
+      "discount": "55",
+      "img": "https://n4.sdlcdn.com/imgs/j/t/l/Ambrane-Power-Lit-10000-mAh-SDL242000307-1-bb747.jpg",
+      "link": "product.html"
+    },
+    {
+      "id": "ad03",
+      "name": "Ambrane Stylo 10K 10000 -mAh Li-Polymer Power Bank Blue",
+      "mrp": "1599",
+      "price": "775",
+      "discount": "52",
+      "img": "https://n2.sdlcdn.com/imgs/j/y/k/Ambrane-10000-mAh-Li-Polymer-SDL233266248-1-68674.jpg",
+      "link": "product.html"
+    },
+    {
+      "id": "e817",
+      "name": "Ambrane Power Lit 10000 -mAh Li-Polymer Power Bank Green",
+      "mrp": "1499",
+      "price": "675",
+      "discount": "55",
+      "img": "https://n4.sdlcdn.com/imgs/j/t/l/Ambrane-Power-Lit-10000-mAh-SDL242000307-1-bb747.jpg",
+      "link": "product.html"
+    },
+    {
+      "id": "e817",
+      "name": "Ambrane Power Lit 10000 -mAh Li-Polymer Power Bank Green",
+      "mrp": "1499",
+      "price": "675",
+      "discount": "55",
+      "img": "https://n4.sdlcdn.com/imgs/j/t/l/Ambrane-Power-Lit-10000-mAh-SDL242000307-1-bb747.jpg",
+      "link": "product.html"
+    },
+    {
+      "id": "e817",
+      "name": "Ambrane Power Lit 10000 -mAh Li-Polymer Power Bank Green",
+      "mrp": "1499",
+      "price": "675",
+      "discount": "55",
+      "img": "https://n4.sdlcdn.com/imgs/j/t/l/Ambrane-Power-Lit-10000-mAh-SDL242000307-1-bb747.jpg",
+      "link": "product.html"
+    },
+    {
+      "id": "e817",
+      "name": "Ambrane Power Lit 10000 -mAh Li-Polymer Power Bank Green",
+      "mrp": "1499",
+      "price": "675",
+      "discount": "55",
+      "img": "https://n4.sdlcdn.com/imgs/j/t/l/Ambrane-Power-Lit-10000-mAh-SDL242000307-1-bb747.jpg",
+      "link": "product.html"
+    },
+    {
+      "id": "e817",
+      "name": "Ambrane Power Lit 10000 -mAh Li-Polymer Power Bank Green",
+      "mrp": "1499",
+      "price": "675",
+      "discount": "55",
+      "img": "https://n4.sdlcdn.com/imgs/j/t/l/Ambrane-Power-Lit-10000-mAh-SDL242000307-1-bb747.jpg",
+      "link": "product.html"
+    },
+    {
+      "id": "e817",
+      "name": "Ambrane Power Lit 10000 -mAh Li-Polymer Power Bank Green",
+      "mrp": "1499",
+      "price": "675",
+      "discount": "55",
+      "img": "https://n4.sdlcdn.com/imgs/j/t/l/Ambrane-Power-Lit-10000-mAh-SDL242000307-1-bb747.jpg",
+      "link": "product.html"
+    },
+    {
+      "id": "0978",
+      "name": "Ambrane 20000 -mAh Li-Polymer Power Bank White",
+      "mrp": "2499",
+      "price": "1299",
+      "discount": "48",
+      "img": "https://n4.sdlcdn.com/imgs/j/y/k/Ambrane-20000-mAh-Li-Polymer-SDL391745921-1-e8666.jpg",
+      "link": "product.html"
+    }
+  ]
+}

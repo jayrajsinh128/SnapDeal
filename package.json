@@ -1,0 +1,15 @@
+{
+  "name": "snapdeal-clone-neeraj",
+  "version": "1.0.0",
+  "description": "Built the clone of Snapdeal website. Features :- Product details, Explore section to view products, Cart page, Payment Gateway",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
